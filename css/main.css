@@ -338,8 +338,7 @@ html {
 }
 .about__img {
   max-width: 30vw;
-  max-height: 410px;
-  height: 100%;
+  min-width: 230px;
 }
 .about__container {
   max-width: 500px;
