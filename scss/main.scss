@@ -642,8 +642,9 @@ html {
 }
 
 .about-help-box {
-  @include flexStyle(flex, center, null, null, 90%);
-  max-width: 300px;
+  @include flexStyle(flex, space-between, null, null, null);
+  flex-grow: 0.3;
+  min-width: 250px;
 }
 
 .social {

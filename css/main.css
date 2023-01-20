@@ -706,9 +706,9 @@ html {
 
 .about-help-box {
   display: flex;
-  justify-content: center;
-  gap: 90%;
-  max-width: 300px;
+  justify-content: space-between;
+  flex-grow: 0.3;
+  min-width: 250px;
 }
 
 .social__box {
