@@ -53,7 +53,6 @@ html {
 
 .logo {
   width: 45px;
-  height: 35px;
 
   &:hover {
     cursor: $black_cursor;
@@ -288,7 +287,6 @@ html {
   &__img {
     max-width: 50vw;
     min-width: 275px;
-    max-height: 407px;
     position: absolute;
     top: 86px;
     right: 0;
@@ -320,8 +318,6 @@ html {
   &__img {
     max-width: 30vw;
     min-width: 230px;
-    // max-height: 410px;
-    // height: 100%;
   }
 
   &__container {
@@ -399,7 +395,6 @@ html {
   &__img {
     max-width: 17vw;
     min-width: 190px;
-    max-height: 180px;
     position: absolute;
     top: 110px;
     right: 323px;

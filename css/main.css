@@ -62,7 +62,6 @@ html {
 
 .logo {
   width: 45px;
-  height: 35px;
 }
 .logo:hover {
   cursor: url("../img/cursor.png"), pointer;
@@ -306,7 +305,6 @@ html {
 .info__img {
   max-width: 50vw;
   min-width: 275px;
-  max-height: 407px;
   position: absolute;
   top: 86px;
   right: 0;
@@ -416,7 +414,6 @@ html {
 .features__img {
   max-width: 17vw;
   min-width: 190px;
-  max-height: 180px;
   position: absolute;
   top: 110px;
   right: 323px;
