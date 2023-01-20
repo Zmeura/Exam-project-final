@@ -338,7 +338,6 @@ html {
 }
 .about__img {
   max-width: 30vw;
-  min-width: 230px;
   max-height: 410px;
   height: 100%;
 }
